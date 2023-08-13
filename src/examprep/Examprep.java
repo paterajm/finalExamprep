@@ -18,6 +18,8 @@ public class Examprep {
         System.out.println("Hello raj how are you!!!");
         System.out.println("I am Hacker");
         System.out.println("Jay Shree Ram");
+         System.out.println("Jay Shree Ram");
+         System.out.println("Jay Shree Ram");
     }
     
 }
